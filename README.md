@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20As'ad%20Mahmud%20Akram&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Frontend%20%20Developer&descSize=30&descAlignY=85&section=header" />
 
 As'ad Mahmud Akram, 4th semester Diploma student of Computer Technology Study Program at Indonesia Digital Technology University. I have experience in various campus organization activities, supported by good teamwork and communication skills. In addition, I also have an interest and experience in computers, especially in frontend development and UI/UX design, which I pursue through various projects and independent training.
 
@@ -6,7 +6,7 @@ I focus on creating web applications that not only provide the right experience 
 
 [![Mail Badge](https://img.shields.io/badge/-asadmahmudakram@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:asadmahmudakram@gmaili@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@asaddakram-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/asaddakram)
-[![Linkedin Badge](https://img.shields.io/badge/-as-ad-mahmud-akram-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/as-ad-mahmud-akram/)
+[![Linkedin Badge](https://img.shields.io/badge/-asad-mahmud-akram-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/as-ad-mahmud-akram/)
 [![Tiktok](https://img.shields.io/badge/-asaddakram-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sasaddakram/)
 [![](https://komarev.com/ghpvc/?username=asadakram&color=blue&label=Profile%20Views)](https://github.com/asadmahmud22/asadmahmudakram)
 [![](https://img.shields.io/github/followers/asadakram?label=GitHub%20Followers)](https://github.com/asadmahmud22)
