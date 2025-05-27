@@ -29,9 +29,9 @@ I focus on creating web applications that not only provide the right experience 
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=react&show_icons=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asadmahmud22&theme=react&show_icons=true&)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=react&card_width=470)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asadmahmud22&theme=react&card_width=470)
 
 
 
